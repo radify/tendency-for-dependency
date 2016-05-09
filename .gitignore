@@ -1,1 +1,3 @@
-repos.ini
+repos.json
+tmp/*
+node_modules
